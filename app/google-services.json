@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376794829392",
+    "project_id": "stocktrading-app",
+    "storage_bucket": "stocktrading-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376794829392:android:1aade7fc79bd678693b755",
+        "android_client_info": {
+          "package_name": "com.example.stocktradingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376794829392-r03nb73a9mjnef5c1tgjg04309cra190.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy0o5xmT-Yr9RDgGF0RuVFb0UyGHPO4KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376794829392-r03nb73a9mjnef5c1tgjg04309cra190.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
